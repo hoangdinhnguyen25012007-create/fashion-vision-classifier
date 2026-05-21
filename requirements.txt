@@ -1,0 +1,7 @@
+tensorflow
+numpy
+gradio
+Pillow
+scikit-learn
+matplotlib
+huggingface_hub
