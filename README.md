@@ -10,21 +10,21 @@ Tải folder data tại: [https://drive.google.com/YOUR_FOLDER_LINK](https://dri
 
 Giải nén và đặt vào thư mục project sao cho đúng cấu trúc:
 NHẬN DANG TRANG PHỤC/
-├── data/
-│   ├── ao_khoac.npy
-│   ├── ao_thun.npy
-│   ├── dep.npy
-│   ├── giay.npy
-│   ├── hat.npy
-│   ├── quan_dai.npy
-│   ├── quan_ngan.npy
-│   ├── tui.npy
-│   ├── vay.npy
-│   └── vo.npy
-├── models/
-├── epp.py
-├── train.py
-└── requirements.txt
+-├── data/
+-│   ├── ao_khoac.npy
+-│   ├── ao_thun.npy
+-│   ├── dep.npy
+-│   ├── giay.npy
+-│   ├── hat.npy
+-│   ├── quan_dai.npy
+-│   ├── quan_ngan.npy
+-│   ├── tui.npy
+-│   ├── vay.npy
+-│   └── vo.npy
+-├── models/
+-├── epp.py
+-├── train.py
+-└── requirements.txt
 
 ### Bước 3: Train model
 sử dụng luôn models đã có sẵn ở drive trên , nếu lỗi thì chạy file train.py một lần nữa
